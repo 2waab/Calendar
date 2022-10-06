@@ -96,3 +96,8 @@ header .icons i:last-child {
 .days li.active::before {
     background-color: #ff2525;
 }
+@media (max-width: 767px) {
+    .box {
+        width: 350px;
+    }
+}
